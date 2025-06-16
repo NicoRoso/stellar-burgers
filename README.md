@@ -1,4 +1,4 @@
-https://github.com/MikeBeloborodov/stellar-burger
+https://github.com/NicoRoso/stellar-burgers
 
 # Проектная работа "Stellar Burger"
 
@@ -54,15 +54,15 @@ yarn build
 - src/hooks - папка с хуками
 
 ## Скриншоты
+![image](https://github.com/user-attachments/assets/1f53b143-6bb3-47b2-a2d2-d846f96ab36e)
+![image](https://github.com/user-attachments/assets/ad88e25d-cb9b-4ab3-b13f-f7e682fec0d9)
+![image](https://github.com/user-attachments/assets/54f0f774-ad4d-4b71-97af-3154b13ac47d)
+![image](https://github.com/user-attachments/assets/b17ee8a7-516a-41e3-9fdd-fa2cb99b71c1)
 
-![](screenshot_1.jpg)
-![](screenshot_2.jpg)
-![](screenshot_3.jpg)
 
 ## Автор
 
-- Github - [MikeBeloborodov](https://github.com/MikeBeloborodov)
-- Frontend Mentor - [@MikeBeloborodov](https://www.frontendmentor.io/profile/MikeBeloborodov)
+- Github - [NicoRoso](https://github.com/NicoRoso/stellar-burgers)
 
 ## Благодарность
 
